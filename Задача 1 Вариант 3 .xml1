@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns="XSD3.xsd"> Flowers <!—обратите внимание на ссылку на xsd —> <br />
+<Flower> <table border = "1"> <tr>
+<tr> <td>Flowers </td> <td> Information </td></tr>
+<td> <table border="1"> <tr>
+<td>ID</td>
+<td>Name</td>
+</tr>
+<tr>
+<td><Codflower>1</Codflower></td>
+<td><NameFlower>Rosa</NameFlower></td>
+</tr>
+<tr>
+<td><Codflower>2</Codflower></td>
+<td><NameFlower>Gladiolys</NameFlower></td>
+</tr>
+<tr>
+<td><Codflower>3</Codflower></td>
+<td><NameFlower>Fialka</NameFlower></td>
+</tr>
+<tr>
+<td><Codflower>4</Codflower></td>
+<td><NameFlower>Iris</NameFlower></td>
+</tr>
+<tr>
+<td><Codflower>5</Codflower></td>
+<td><NameFlower>Pion</NameFlower></td>
+</tr>
+</table>
+<td> <table border="1"> 
+<tr>
+<td>ClassFlower</td>
+<td>Averageheight</td>
+<td>Flowering</td>
+<td>AdditionalInformation</td>
+</tr>
+<tr>
+<td><ClassFlower>Rosa ordinary</ClassFlower></td>
+<td><AverageHeight>60 cm</AverageHeight></td>
+<td><Flowering>yes</Flowering></td>
+<td><AdditionalInformation>kind Rose</AdditionalInformation></td>
+</tr>
+<tr>
+<td><ClassFlower>Gladiolys ordinary</ClassFlower></td>
+<td><AverageHeight>80 cm</AverageHeight></td>
+<td><Flowering>yes</Flowering></td>
+<td><AdditionalInformation>kind Gladiolys</AdditionalInformation></td>
+</tr>
+<tr>
+<td><ClassFlower>Blue Fialka</ClassFlower></td>
+<td><AverageHeight>10 cm</AverageHeight></td>
+<td><Flowering>yes</Flowering></td>
+<td><AdditionalInformation>indoor plant</AdditionalInformation></td>
+</tr>
+<tr>
+<td><ClassFlower>White Iris</ClassFlower></td>
+<td><AverageHeight>60 cm</AverageHeight></td>
+<td><Flowering>Yes</Flowering></td>
+<td><AdditionalInformation>bulbous plant</AdditionalInformation></td>
+</tr>
+<tr>
+<td><ClassFlower>Pion ordinaty</ClassFlower></td>
+<td><AverageHeight>50 cm</AverageHeight></td>
+<td><Flowering>yes</Flowering></td>
+<td><AdditionalInformation>very large flower</AdditionalInformation</AdditionalInformation></td>
+</tr>
+<table>
+</Flower>
+</Root>
