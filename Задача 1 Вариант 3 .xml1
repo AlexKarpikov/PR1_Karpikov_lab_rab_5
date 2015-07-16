@@ -3,28 +3,28 @@
 <Flower> <table border = "1"> <tr>
 <tr> <td>Flowers </td> <td> Information </td></tr>
 <td> <table border="1"> <tr>
-<td>ID</td>
+<td>IDflower</td>
 <td>Name</td>
 </tr>
 <tr>
-<td><Codflower>1</Codflower></td>
-<td><NameFlower>Rosa</NameFlower></td>
+<td><IDflower>1</IDflower></td>
+<td><Name>Rosa</Name></td>
 </tr>
 <tr>
-<td><Codflower>2</Codflower></td>
-<td><NameFlower>Gladiolys</NameFlower></td>
+<td><IDflower>2</IDflower></td>
+<td><Name>Gladiolys</Name></td>
 </tr>
 <tr>
-<td><Codflower>3</Codflower></td>
-<td><NameFlower>Fialka</NameFlower></td>
+<td><IDflower>3</IDflower></td>
+<td><Name>Fialka</Name></td>
 </tr>
 <tr>
-<td><Codflower>4</Codflower></td>
-<td><NameFlower>Iris</NameFlower></td>
+<td><IDflower>4</IDflower></td>
+<td><Name>Iris</Name></td>
 </tr>
 <tr>
-<td><Codflower>5</Codflower></td>
-<td><NameFlower>Pion</NameFlower></td>
+<td><IDflower>5</IDflower></td>
+<td><Name>Pion</Name></td>
 </tr>
 </table>
 <td> <table border="1"> 
