@@ -1,0 +1,44 @@
+# PR1_Karpikov_lab_rab_5
+<?xml version="1.0" encoding="utf-8"?>
+<Staff xmlns="xsd_staff.xsd"> <!--xsd -->
+<Worker>
+<IDWorker>1</IDWorker>
+<Surname>Melnikov</Surname>
+<Name>Igor</Name>
+<MiddleName>Ivanovich</MiddleName>
+<Function>Guard</Function>
+<EmploymentDate>2012-08-11</EmploymentDate>
+</Worker>
+<Worker>
+<IDWorker>2</IDWorker>
+<Surname>Zaykov</Surname>
+<Name>Sergey</Name>
+<MiddleName>Kirillovich</MiddleName>
+<Function>Foreman</Function>
+<EmploymentDate>2010-02-24</EmploymentDate>
+</Worker>
+<Worker>
+<IDWorker>3</IDWorker>
+<Surname>Buynov</Surname>
+<Name>Andrey</Name>
+<MiddleName>Alekseevich</MiddleName>
+<Function>Driver</Function>
+<EmploymentDate>2011-01-16</EmploymentDate>
+</Worker>
+<Worker>
+<IDWorker>4</IDWorker>
+<Surname>Bely</Surname>
+<Name>Dmitry</Name>
+<MiddleName>Dmitreevich</MiddleName>
+<Function>Constructor</Function>
+<EmploymentDate>2012-10-05</EmploymentDate>
+</Worker>
+<Worker>
+<IDWorker>5</IDWorker>
+<Surname>Zavadsky</Surname>
+<Name>Yury</Name>
+<MiddleName>Stepanovich</MiddleName>
+<Function>Painter</Function>
+<EmploymentDate>2013-12-19</EmploymentDate>
+</Worker>
+</Staff>
